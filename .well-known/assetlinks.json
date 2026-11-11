@@ -1,1 +1,10 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.joffrayda.cafefrimousse",
+    "sha256_cert_fingerprints": [
+      "FE:F0:3A:46:34:7F:2D:5A:2E:92:90:18:5A:25:A2:70:95:9D:1E:46:97:6A:B2:84:26:16:B4:A1:DD:05:CC:E2"
+    ]
+  }
+}]
